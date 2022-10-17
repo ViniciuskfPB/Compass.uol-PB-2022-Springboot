@@ -1,0 +1,5 @@
+2. Para que serve e como funciona o Framework Scrum?
+O framework Scrum funciona como uma forma estrutural de organização de equipes, para executar tarefas. A ideia consiste na realização de encontros diários, em forma de uma pequena reunião, onde cada participante tem sua função dentro do scrum team.
+Product Owner(P.O.) = Gerencia o projeto e conecta a equipe às tarefas a serem executadas.
+Scrum Master = Responsável por orientar a equipe, oferecendo suporte tanto ao PO quanto ao time de desenvolvimento.
+Time Dev = Responsável pelo desenvolvimento das tarefas.
