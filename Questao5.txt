@@ -1,0 +1,2 @@
+5. José foi promovido de seu cargo anterior e se tornou o novo Product Owner do time, quais são suas novas responsabilidades como PO? 
+Product Owner(P.O.) = Gerencia o projeto e conecta a equipe às tarefas a serem executadas. Uma das principais ideias do mesmo é a busca por flexibilidade e rapidez na execução.
