@@ -1,0 +1,15 @@
+1.Baseado no Scrum Guide, qual o tempo máximo deveriam ter as seguintes cerimônias: 
+a. Daily: 
+15 minutos 
+ 
+b. Planning:
+2 semanas = 4 horas de duração
+1 mês = 8 horas de duração 
+
+c. Review:
+2 semanas = 2 horas de duração
+1 mês = 4 horas de duração
+
+d. Retrospectiva: 
+2 semanas = 1,5 horas de duração
+1 mês = 3 horas de duração
